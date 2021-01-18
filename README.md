@@ -1,2 +1,2 @@
 # website
-This is a landing page 
+This is a webagency landing page template. 
